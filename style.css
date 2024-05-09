@@ -1,0 +1,30 @@
+body {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+.texto-rojo{
+    color:rgb(47, 30, 24);
+}
+.texto-rojo {
+    text-align: center;
+}  
+.texto{
+    color:rgb(62, 35, 25);
+     
+}
+.texto{
+    text-align: left;
+         
+}
+
+.right{
+    width: 20%;
+    height: 10%; 
+}
+.segundo{
+    color:rgb(62, 35, 25);
+    
+}
+.texto2{
+    color:rgb(62, 35, 25);
+    font-size: 25px;
+}
